@@ -2,8 +2,8 @@ name: extra_lints
 version: 0.0.1
 homepage:
 description: Extra Lints provides some useful lints not included in Flutter Lints.
-repository: https://github.com/invertase/dart_custom_lint
-issue_tracker: https://github.com/invertase/dart_custom_lint/issues
+repository: https://github.com/LCostaN/extra_lints
+issue_tracker: https://github.com/LCostaN/extra_lints/issues
 
 environment:
   sdk: ^3.5.4
