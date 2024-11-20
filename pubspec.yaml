@@ -1,7 +1,9 @@
 name: extra_lints
-description: "Extra Lint rules not included in Flutter standard ones"
 version: 0.0.1
 homepage:
+description: Extra Lints provides some useful lints not included in Flutter Lints.
+repository: https://github.com/invertase/dart_custom_lint
+issue_tracker: https://github.com/invertase/dart_custom_lint/issues
 
 environment:
   sdk: ^3.5.4
@@ -10,9 +12,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  analyzer:
-  analyzer_plugin:
-  custom_lint_builder:
+  analyzer: ^6.7.0
+  analyzer_plugin: ^0.11.3
+  custom_lint_builder: ^0.7.0
 
 dev_dependencies:
   flutter_test:
